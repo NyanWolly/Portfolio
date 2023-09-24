@@ -11,6 +11,6 @@ Hello, World! Меня зовут ``Анна``, я начинающий инже
 
 
 ## Контактная информация
-- email: nyanwolly@yandex.ru
+- Email: nyanwolly@yandex.ru
 - HH.ru: [Ссылка на резюме](https://hh.ru/resume/13fc700eff0715936a0039ed1f34644759636d?from=share_ios)
 
