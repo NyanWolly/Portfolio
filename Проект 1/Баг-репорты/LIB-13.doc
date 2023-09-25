@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#LIB-13] Отображается отзыв без текста на странице с информацией о книге в табе &quot;Отзывы&quot;</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://nyan-wolly.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://nyan-wolly.atlassian.net/browse/LIB-5">Отображается отзыв без текста на странице с информацией о книге в табе &quot;Отзывы&quot;</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://nyan-wolly.atlassian.net/browse/LIB-5">LIB-5</a>)</span>
+                <h3 class="formtitle"><img src="https://nyan-wolly.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [LIB-13]&nbsp;<a href="https://nyan-wolly.atlassian.net/browse/LIB-13">Отображается отзыв без текста на странице с информацией о книге в табе &quot;Отзывы&quot;</a>
+            <span class="subText">
+               Создано: 30/апр/23                   &nbsp;Обновлено: 30/апр/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://nyan-wolly.atlassian.net/secure/BrowseProject.jspa?id=10006">Библиотека</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Подзадача
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63f948541223974bc04c6d1e"
+                id="word_reporter_63f948541223974bc04c6d1e"
+                href="https://nyan-wolly.atlassian.net/secure/ViewProfile.jspa?accountId=63f948541223974bc04c6d1e">
+                    Anna Berdeneva
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10053-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            регресс                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Связи задачи:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://nyan-wolly.atlassian.net/browse/LIB-5">
+                     <strike>LIB-5</strike>                 </a>
+            </td>
+            <td>
+                Отображается отзыв без текста на стра...
+            </td>
+            <td>
+                Готово
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Серьезность (Severity):</b></td>
+                <td id="customfield_10034-10053-value" class="value" bgcolor="#ffffff" width="80%">    S3 Значительная (Major)
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Зайти на сайт библиотеки в портал для пользователей <a href="https://online-ru-lib-3.herokuapp.com/" class="external-link" rel="nofollow noreferrer">https://online-ru-lib-3.herokuapp.com/</a></li>
+	<li>Выбрать из списка книгу с отзывом без текста</li>
+	<li>Перейти на страницу с информацией о книге</li>
+	<li>Нажать на таб “Отзывы”</li>
+</ol>
+
+
+<p>ОР: Отзыв без текста не отображается на табе “Отзывы”</p>
+
+<p>ФР: Отзыв без текста отображается на табе “Отзывы”</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Комментарии</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Комментарий по  
+                                                    
+                
+        
+            <a class="user-hover" rel="63f948541223974bc04c6d1e"
+                id="word_commented_63f948541223974bc04c6d1e"
+                href="https://nyan-wolly.atlassian.net/secure/ViewProfile.jspa?accountId=63f948541223974bc04c6d1e">
+                    Anna Berdeneva
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">30/апр/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p>В процессе регрессионного тестирования обнаружилось, что баг возник снова</p>
+        </td></tr>
+            </table>
+Полученный Mon Sep 25 18:49:24 UTC 2023 Anna Berdeneva используя JIRA 1001.0.0-SNAPSHOT#100236-sha1:6b49b0aa2b39682bcabe5b7da247bec502f6360e.
+
+</body>
+</html>
